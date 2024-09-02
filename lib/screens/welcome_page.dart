@@ -7,7 +7,7 @@ class WelcomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: const Color.fromARGB(255, 17, 25, 1),
+        backgroundColor: Color.fromARGB(255, 9, 13, 1),
         body: Padding(
           padding: const EdgeInsets.all(8.0),
           child: Column(
